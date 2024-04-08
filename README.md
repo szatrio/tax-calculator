@@ -4,9 +4,9 @@
 
 -  [Introduction](#introduction)
 
--  [How to Build and Run](#How to Build and Run)
+-  [How to Build and Run](#How-to-Build-and-Run)
 
--  [Endpoint and Response Sample](#Endpoint and Response Sample)
+-  [Endpoint and Response Sample](#Endpoint-and-Response-Sample)
 
 
 ---
