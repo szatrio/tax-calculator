@@ -14,7 +14,7 @@
 ## Introduction
 
 
-<p>Calculate Income Tax based on Lembaga Hasil Dalam Negeri Malaysia 2024</p>
+<p>Calculate Income Tax with details and claim options</p>
 
   
 
